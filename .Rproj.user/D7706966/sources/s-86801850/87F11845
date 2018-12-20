@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532991473073.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "87F11845",
+    "lastKnownWriteTime" : 1533007615,
+    "last_content_update" : 1533007615210,
+    "path" : "C:/Users/Owner/projects/web_scraping/case_study-trump_tweets.R",
+    "project_path" : "case_study-trump_tweets.R",
+    "properties" : {
+        "cursorPosition" : "217,48",
+        "scrollLine" : "197",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,31 @@
+library(dslabs)
+data("gapminder")
+
+# dat <- gapminder %>% filter(region == "Middle Africa") %>%
+#   mutate(recode(country,
+#                 "Central African Republic" = "CAR",
+#                 "Congo, Dem. Rep." = "DRC",
+#                 "Equatorial Guinea" = "Eq. Guinea"))
+# dat$country_short
+
+
+# dat <- gapminder %>% filter(region == "Middle Africa") %>%
+#   mutate(country_short = recode(country,
+#                                 c("Central African Republic", "Congo, Dem. Rep.", "Equatorial Guinea"),
+#                                 c("CAR", "DRC", "Eq. Guinea")))
+# dat$country_short
+
+# dat <- gapminder %>% filter(region == "Middle Africa") %>%
+#   mutate(country = recode(country,
+#                           "Central African Republic" = "CAR",
+#                           "Congo, Dem. Rep." = "DRC",
+#                           "Equatorial Guinea" = "Eq. Guinea"))
+# dat$country_short
+
+dat <- gapminder %>% filter(region == "Middle Africa") %>%
+  mutate(country_short = recode(country,
+                                "Central African Republic" = "CAR",
+                                "Congo, Dem. Rep." = "DRC",
+                                "Equatorial Guinea" = "Eq. Guinea"))
+
+dat$country_short

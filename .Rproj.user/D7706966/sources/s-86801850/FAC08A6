@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532920977888.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FAC08A6",
+    "lastKnownWriteTime" : 1532922180,
+    "last_content_update" : 1532922180763,
+    "path" : "C:/Users/Owner/projects/web_scraping/extracting_a_table_from_pdf.R",
+    "project_path" : "extracting_a_table_from_pdf.R",
+    "properties" : {
+        "cursorPosition" : "1,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
